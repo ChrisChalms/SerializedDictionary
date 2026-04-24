@@ -8,7 +8,6 @@ A generic dictionary implementation for Unity that serializes properly and provi
 - ✅ **No concrete classes required** - use generics directly!
 - ✅ Inspector support with add/remove buttons
 - ✅ Works with any Unity-serializable types
-- ✅ No runtime overhead - uses native `Dictionary<TKey, TValue>` internally
 - ✅ Supports nested serialization (dictionaries in ScriptableObjects, prefabs, etc.)
 
 ## Installation
